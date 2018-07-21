@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Life Cycles</string>
+    <string name="tag">TAG</string>
+    <string name="i_have_changed">I Have Changed</string>
+    <string name="MainActivity">MainActivity</string>
+    <string name="FragmentLevel1">FragmentLevel1</string>
+    <string name="FragmentLevel2">FragmentLevel2</string>
+</resources>
